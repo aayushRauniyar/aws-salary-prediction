@@ -1,3 +1,4 @@
+```markdown
 # AWS Salary Prediction
 
 Welcome to the AWS Salary Prediction project repository! This project is a collaborative effort that aims to predict salaries using advanced machine learning techniques and cloud computing. Below, you'll find an overview of the project, its key features, and how to get started.
@@ -18,7 +19,7 @@ The AWS Salary Prediction project focuses on leveraging machine learning and clo
 
 - **Machine Learning Models:** We've developed and fine-tuned various machine learning models to predict salaries accurately.
 
-- **Cloud Integration:** Our project integrates with cloud platforms to leverage scalable resources for data processing and analysis.
+- **Cloud Integration:** Our project seamlessly integrates with AWS cloud platforms, allowing us to leverage scalable resources for data processing and analysis.
 
 - **Collaborative Effort:** This project is a result of dedicated teamwork, combining the skills of frontend development, machine learning, cloud development, and more.
 
@@ -51,3 +52,8 @@ To get started with the AWS Salary Prediction project, follow these steps:
 Feel free to connect with us on LinkedIn to learn more about our contributions and expertise.
 - [Kshitij Bohara's LinkedIn](https://www.linkedin.com/in/kshitij-bohara-ababb622a)
 - [Aayush Rauniyar's LinkedIn](https://www.linkedin.com/in/aayushrauniyar061/)
+
+We are pleased to announce that the project has been successfully uploaded to the AWS cloud and is running smoothly. Thank you for your interest and support.
+```
+
+This update reflects that the project is now on the AWS cloud and is functioning smoothly.
