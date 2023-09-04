@@ -9,7 +9,6 @@ Welcome to the AWS Salary Prediction project repository! This project is a colla
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## About the Project
 
